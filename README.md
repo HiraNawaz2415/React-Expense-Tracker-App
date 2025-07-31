@@ -14,9 +14,9 @@ A simple and stylish expense tracker built with **React**, **Tailwind CSS**, and
 
 ## 📸 Screenshots
 
-| Home Page | Add Expense | Expense Chart |
-|-----------|-------------|----------------|
-| ![Home](screenshots/home.png)  ![Chart](screenshots/chart.png) |
+| Home Page | Expense Chart |
+|-----------|----------------|
+| ![Home](screenshots/home.png) | ![Chart](screenshots/chart.png) |
 
 > *(Add screenshots in a `/screenshots` folder for visual reference)*
 
